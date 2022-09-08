@@ -49,6 +49,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Presented By:
 
-Shawn Sagiv - 204816631
-Guy Hassin - 312253255
-Ayelet Akerman - 205705452
+#Shawn Sagiv - 204816631
+
+# Guy Hassin - 312253255
+
+# Ayelet Akerman - 205705452
