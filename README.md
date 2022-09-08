@@ -53,4 +53,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 #### Guy Hassin - 312253255
 
-#### Ayelet Akerman - 205705452
+#### Ayelet Ackerman - 205705452
