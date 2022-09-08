@@ -5,7 +5,7 @@ Traveli give the customers the opportunity to choose the type of their dream tri
 Moreover, Traveli will help you to expend your horizons and find places you would never think about or even know that they exist, like Bhutan, Faroe Islands, Namibia and many more, and design the perfect trip for those extraordinary places. 
 
 ## Source Description 
-# /Users/shawnsagiv/Desktop/traveli_source/src/components/Search
+/Users/shawnsagiv/Desktop/traveli_source/src/components/Search
 In this section, all the "Search Bar" components, are placed. The search bar, is like a banner, and can be found in the upper part of the main page of the website. This is basically the filter for finding the required trip. 
 It includes all five major components: Dates, Destinations, Number of people, Price, VacationTypes.
 
