@@ -15,20 +15,20 @@ It includes all five major components: Dates, Destinations, Number of people, Pr
 
 This section contains all the "Secondary pages." This means, that in order to build this type of website we had to build description pages for every country/city in the world. Basically, we could not do so within our time frame, so we chose 8 major countries in order to demenstrate our case. The countries/cities are: Amsterdam, Istanbul, Budapest, Dubai, Greece, Krakow, New York, Prague.
 
-# /Users/shawnsagiv/Desktop/traveli_source/src/router
+### /Users/shawnsagiv/Desktop/traveli_source/src/router
 Contains one file "index.js" which contains the routes of the links (e.g home, Amsterdam, New York) etc.
 
-# /Users/shawnsagiv/Desktop/traveli_source/src/assets 
+### /Users/shawnsagiv/Desktop/traveli_source/src/assets 
 Contains all assets required to build this website. The assets are: all images included in the site, logo, Icons.
 
-# Technology
+### Technology
 
-# HTML
-# CSS
-# JS
-# VueJS
+HTML
+CSS
+JS
+VueJS
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -48,6 +48,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### Presented By:
-# Shawn Sagiv - 204816631
-# Guy Hassin - 312253255
-# Ayelet Akerman - 205705452
+
+Shawn Sagiv - 204816631
+Guy Hassin - 312253255
+Ayelet Akerman - 205705452
